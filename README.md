@@ -6,7 +6,7 @@ An example application for showing how to use the Thrift JS modules that are
 compatible with Require.js.
 
 Thrift Update
-=============
+-------------
 
 To generate Require.js compatible JS modules with thrift, you must apply the
 following [patch](https://gist.github.com/skuruppu/5a24615b2c579aedaf68) to
@@ -23,7 +23,7 @@ Generating JS modules with structs and services is still a [work in
 progress](https://github.com/skuruppu/thrift/tree/thrift-require-js).
 
 Generating JS Modules
-=====================
+---------------------
 
 First clone this git repository. The thrift tutorial files are provided in the
 `thrift` directory. To compile follow these steps:
