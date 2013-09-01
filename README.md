@@ -1,5 +1,9 @@
-This is an example application for showing how to use the Thrift JS modules
-that are compatible with Require.js.
+=======
+Thrift Require.js Example
+=====================
+
+An example application for showing how to use the Thrift JS modules that are
+compatible with Require.js.
 
 Thrift Update
 =============
