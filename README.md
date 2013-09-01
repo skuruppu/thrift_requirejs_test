@@ -15,6 +15,9 @@ Then compile and install Thrift.
 Note that this patch only allows Thrift to generate Require.js compatible
 modules for Thrift enums and constants only.
 
+Generating JS modules with structs and services is still a [work in
+progress](https://github.com/skuruppu/thrift/tree/thrift-require-js).
+
 Generating JS Modules
 =====================
 
